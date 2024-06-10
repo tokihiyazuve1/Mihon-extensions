@@ -1168,7 +1168,7 @@
     "lang": "all",
     "code": 46,
     "version": "1.4.46",
-    "nsfw": 1,
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
